@@ -1,0 +1,17 @@
+com\cristina\clasesgenerales\FrmConsultaBD$1.class
+com\cristina\clasesgenerales\Log.class
+Entidades\Materia.class
+com\cristina\clasesgenerales\FrmConsultaBD$2.class
+com\cristina\clasesgenerales\Menu.class
+Entidades\Estudiante.class
+com\cristina\clasesgenerales\FrmConsultaBD$3.class
+DAO\Notas.class
+com\cristina\clasesgenerales\Log$1.class
+com\cristina\clasesgenerales\FrmConsultaBD$4.class
+com\cristina\clasesgenerales\FrmConsultaBD.class
+com\cristina\BD\ConexionAMYSQL.class
+Entidades\Nota.class
+ViewModel\NotaVM.class
+com\cristina\clasesgenerales\Menu$1.class
+DAO\Log.class
+DAO\Estudiantes.class
